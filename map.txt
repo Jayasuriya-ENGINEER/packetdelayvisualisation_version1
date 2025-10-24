@@ -1,0 +1,18 @@
+31-10
+install lib
+pandas->data handling
+matplotlib->visualization
+scapy->to read the wireshark files
+seaborn->ploting and visualization
+-----------------------
+reading the rcap files from wireshark
+
+
+Total packets captured: 27016
+Ether / ARP who has 192.168.110.32 says 0.0.0.0 / Padding
+Ether / ARP who has 192.168.110.32 says 0.0.0.0 / Padding
+Ether / ARP who has 192.168.110.24 says 0.0.0.0 / Padding
+Ether / ARP who has 192.168.110.24 says 0.0.0.0 / Padding
+Ether / IP / UDP 192.168.110.78:59055 > 224.2.2.2:8995 / Raw
+PS C:\Users\Jaya suriya S\OneDrive\Desktop\works\ALPHA a> 
+
